@@ -1,6 +1,6 @@
 package org.EPHProj.FindYourChamps.model;
 
-public class LOL_STATIC_DATA_V3 {
+public class LOL_STATIC_CHAMP_DATA_V3 {
 
     //property
     private String name;
@@ -8,7 +8,7 @@ public class LOL_STATIC_DATA_V3 {
     private String key;
 
     //constructor
-    public LOL_STATIC_DATA_V3 (String name, int id, String key) {
+    public LOL_STATIC_CHAMP_DATA_V3(String name, int id, String key) {
         this.name=name;
         this.id=id;
         this.key=key;
