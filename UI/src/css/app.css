@@ -1,0 +1,39 @@
+*{
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+body{
+  background: #d8dbd6;
+}
+header{
+  height: 50px;
+  width: 100%;
+  background: #ffffff;
+}
+.container{
+  height: 700px;
+  width: 70%;
+  margin-right: auto;
+  margin-left: auto;
+}
+.title_bar{
+  height: 100px;
+  font-size: 50px;
+  background: #11397a;
+  line-height: 100px;
+  color: #ffffff;
+  margin-bottom: 5px;
+}
+#side{
+  width: 20%;
+  background: #ffffff;
+  float: left;
+  height: 100%;
+}
+#main{
+  width: 79%;
+  height: 100%;
+  background: #ffffff;
+  float: right;
+}
